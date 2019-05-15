@@ -1,8 +1,5 @@
 ﻿SC team3 languages attitude
 
-
-https://github.com/Hoshey/SC_languages_testcode.git
-
 可以直接下載全部(不過這次只用到了資料集中2個檔案)
 
 
